@@ -1,0 +1,8 @@
+From: alert@fake-bank.example
+Reply-To: steal@unknown.example
+To: user@example.com
+Subject: URGENT account verification!!!
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<html><body><h1>Urgent!</h1><p>Your account will be closed. Verify now at http://bad.example/login</p></body></html>

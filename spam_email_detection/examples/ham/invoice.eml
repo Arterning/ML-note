@@ -1,0 +1,7 @@
+From: billing@trusted-shop.example
+To: user@example.com
+Subject: Your paid invoice
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your invoice has been paid successfully. The receipt is available in your account order history.
